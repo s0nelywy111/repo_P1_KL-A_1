@@ -1,8 +1,8 @@
 # KL-A – Człowiek jako źródło danych · mapa sygnałów
 
-**Zespół:** [Imię Nazwisko – XX] · [Imię Nazwisko – YY]
+**Zespół:** Yevhen Rohozhynskyi (YR) · Vladyslav Uharov (VU)
 **Pakiet:** P1 „Czy to napisało AI?” – *Etykieta źródła AI a alokacja uwagi wzrokowej i ocena dowodów*
-**Repozytorium:** [link] · tag `KL-A`
+**Repozytorium:** https://github.com/s0nelywy111/repo_P1_KL-A_1.git · tag `KL-A`
 
 ---
 
